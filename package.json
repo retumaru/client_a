@@ -1,0 +1,10 @@
+{
+  "name": "client_a",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "node main.js"
+  },
+  "dependencies": {
+    "dotenv": "^10.0.0"
+  }
+}
